@@ -1,0 +1,13 @@
+baseurl = "https://followflavius.github.io"
+languageCode = "en-us"
+title = "Flavius Mihaies"
+paginate = 10
+paginatePath = "page"
+disqusShortname = "flav"
+
+[params]
+  author = "Flavius"
+  description = "Random thoughts, analysis, cool stuff"
+  twitterName = "followflavius"
+  twitter = "true"
+  categories = ["photo", "essays", "tweaking"]
